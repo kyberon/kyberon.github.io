@@ -6,7 +6,28 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 11:12:14 +0500</lastBuildDate>
     <atom:link href="https://kyberon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptography(Encryption,Decryption)</title>
+      <link>https://kyberon.github.io/posts/my-second-post/</link>
+      <pubDate>Wed, 18 Jun 2025 11:12:14 +0500</pubDate>
+      <guid>https://kyberon.github.io/posts/my-second-post/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“Cryptography is the ultimate form of nonviolent direct action.”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h1 id=&#34;what-is-cryptography&#34;&gt;What is Cryptography?&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;What is Cryptography?&lt;/strong&gt;&lt;br&gt;
+Cryptography is the science of protecting information by turning it into unreadable code so that only the right person can read it.&lt;br&gt;
+It keeps your data safe, private, and secure, whether it is stored or being sent across the internet.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is Decryption?&lt;/strong&gt;&lt;br&gt;
+Decryption is the process of converting the coded (encrypted) message back into readable data, but only if you have the correct key.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://kyberon.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 18 Jun 2025 11:09:45 +0500</pubDate>
+      <guid>https://kyberon.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;My first post on hugo.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

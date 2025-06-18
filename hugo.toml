@@ -1,4 +1,4 @@
 baseURL = 'https://kyberon.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'kyberon'
 theme = "hugo-PaperMod"
